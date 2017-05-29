@@ -22,3 +22,19 @@ organized? How would branches help?
 
       It allows you to experiment with the code without worrying about
       ruining your master branch or working code
+
+How do the diagrams help you visualize the branch structure?
+
+      A diagram is a visual representation.
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+      They update to a single branch and combine all commits. Because it is
+      easy to visualize in a line graph.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+
+      You don't have to analyze every line of code for differences, it does
+      it for you.
